@@ -1,3 +1,3 @@
 module github.com/solsw/jwt
 
-go 1.22
+go 1.26
